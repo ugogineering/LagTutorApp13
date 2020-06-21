@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lagtutor.android.lagtutorapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.lagtutor.android.lagtutorapp.CaseraySolutions"
+            android:label="@string/label_caseray_solutions_limited"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.Cbt"
+            android:label="@string/label_cbt_practice"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.UnilagMba"
+            android:label="@string/label_unilag_mba"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.Foundation"
+            android:label="Unilag Foundation"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.utme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.utme" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.HomeTutoring"
+            android:label="@string/home_tutoring"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.utme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.utme" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.OlevelAggregate"
+            android:label="@string/calculate_your_o_level_aggregate"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.utme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.utme" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.KnowYourUtmeTarget"
+            android:label="@string/know_your_utme_target"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.utme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.utme" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.AboutApp"
+            android:label="@string/about_app"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.CutoffMarks"
+            android:label="@string/cutoff_marks"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.utme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.utme" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.CourseRequirements"
+            android:label="@string/admission_requirements"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.AdmissionRequirements">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.AdmissionRequirements" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.AdmissionRequirements"
+            android:label="@string/admission_requirements_name"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.utme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.utme" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.ContactLagtutor"
+            android:label="Contact LagTutor"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.utme"
+            android:label="@string/utme"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.PastQuestions"
+            android:label="@string/past_questions_label"
+            android:parentActivityName="com.lagtutor.android.lagtutorapp.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.lagtutor.android.lagtutorapp.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.lagtutor.android.lagtutorapp.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

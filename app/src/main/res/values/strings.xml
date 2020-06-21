@@ -1,0 +1,1148 @@
+<resources>
+    <string name="app_name">LagTutor App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">LagTutor Android App</string>
+    <string name="nav_header_subtitle">https://lagtutor.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_utme">UTME</string>
+    <string name="menu_foundation">Foundation</string>
+    <string name="menu_mba">Unilag MBA</string>
+    <string name="menu_past_questions">Past Questions</string>
+    <string name="menu_about">About</string>
+    <string name="menu_cbt">CBT</string>
+    <string name="menu_caseray_solutions">Caseray Solutions</string>
+    <string name="menu_contact">Contact Us</string>
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="chose_camera">You chose Camera Import.</string>
+    <string name="chose_home">You chose Home.</string>
+    <string name="chose_gallery">You chose the Gallery.</string>
+    <string name="chose_slideshow">You chose the Slideshow.</string>
+    <string name="chose_tools">You chose Tools.</string>
+    <string name="chose_share">You chose Share.</string>
+    <string name="chose_send">You chose Send.</string>
+
+    <string name="share_text">Share Text</string>
+    <string name="share_text_with">Share Text With</string>
+    <string name="past_questions_label">Past Questions</string>
+
+    <string name="admission_requirements_name">Unilag Admission Requirements</string>
+    <string name="text_header">Message Received</string>
+    <string name="admission_requirements">Specific Admission Requirements</string>
+    <string name="all_faculties">All Faculties
+    </string>
+    <string name="faculty_arts_details"><b>FACULTY OF ARTS</b> \n\n
+
+    <b>1. CREATIVE ARTS</b> \n\n
+    <b>Direct Entry Requirements:</b> \n
+    Very good passes in three JUPEB/A Level subjects: \n\n
+
+    <b>i) THEATRE ARTS:</b> Literature-in-English and any two of Igbo / Yoruba, CRS/IRS, French, History, Government, Music and Visual Arts. \n
+    <b>ii) VISUAL ARTS:</b> Visual Arts, and any two of Igbo / Yoruba CRS/IRS, French, History, Government and Music. \n
+
+    <b>iii) MUSIC:</b> Music and any two from Lit- In English, Igbo / Yoruba, CRS/IRS, French, History, Government, Economics Chemistry, Biology, Further Mathematics and Visual Arts. \n
+
+    iv) Also accepts HND/OND at Upper Credit Level in Drama/Theatre and Music; NCE Music and Diploma or Advanced Level in Music from the Royal School of Music, London/Trinity College, London / Musical Society of Nigeria (MUSON).\n\n
+
+<b>UTME Requirements:</b>\n
+a) Theatre Arts: Five O/Level credit passes in English Language, Mathematics, Literature-in-English and any other two subjects one of which much be an Arts subject.
+
+b) Music: Five O/Level credit passes in English Language, Mathematics, Music / Literature-in-English, and any other two subjects from Arts, Science and Social Sciences.
+
+c) Visual Arts: Five O/Level credit passes in English Language, Mathematics, and any one of Fine Arts / Visual Arts / Photography / Craft Practice/Dyeing and Bleaching, and any other two subjects, one of which must be an Arts Subject.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Any one of Fine Arts / Literature-in-English/ Music, one Arts subject and any Science or Social Science subject.\n\n
+
+<b>2. ENGLISH</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: \n
+Literature-in-English and any two of Igbo / Yoruba, CRS, IRS, History, Government, Music, Fine Arts and French. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Literature-in-English, and any two of French, History / Government, CRS/IRS and any Nigerian Language.
+\n\n
+<b>UTME Subjects:</b>\n
+English Language, Literature-in-English and any two of CRS/IRS, French, History / Government and any Nigerian Language. \n\n
+
+<b>3. EUROPEAN LANGUAGES</b> \n\n
+<b>I. FRENCH</b>\n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: French and any two of Igbo/Yoruba, CRS/IRS, History, Government, Literature-in-English, Music and Fine Arts. \n
+
+II. NCE in French/NFLV, Diploma/ Diplôme Supérieur (MODULE III), DALF (France), CEGEP (Canada), Baccalaureate, CAP AND BTS. \n\n
+<b>UTME Requirements:</b>\n
+Five O/Level credit passes in English Language, Mathematics and any three Arts or Social Sciences. Civic Education and Computer Studies are also accepted. \n\n
+<b>UTME Subjects:</b>\n
+English Language and any three Arts or Social Sciences. \n\n
+
+<b>II. RUSSIAN</b>\n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good pass in JUPEB/A Level subjects: Any three of French, Igbo/Yoruba, CRS/IRS, History, Government, Literature-in-English, Music and Fine Arts.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and any three Arts or Social Sciences. Civic Education and Computer Studies are also accepted.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three Arts or Social Sciences. \n\n
+
+<b>4. HISTORY AND STRATEGIC STUDIES</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: History and/or Government and any two or one of, Igbo, Yoruba, CRS, IRS, Literature- in-English, French, Music and Fine Arts. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, History / Government and any other two Arts subject from Literature-in-English, CRS/IRS, Hausa, Yoruba, and Igbo, Civic Education. \n\n
+<b>UTME Subjects:</b>\n
+English Language, History and/or Government and any one or two Arts or Social Sciences. \n\n
+
+<b>5. LINGUISTICS AFRICAN AND ASIAN STUDIES </b> \n\n
+<b>A. Linguistics / IGBO</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects in Yoruba/Igbo and any two of History, IRS/CRS, French, Government, Music, Visual Arts and Literature-in-English. \n
+
+II. NCE (Merit) in two subjects to include a Nigerian Language. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and any three Arts, Science or Social Sciences. Social Studies and Civic Education are also accepted.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three Arts, Science or Social Sciences. \n\n
+
+<b>B. Linguistics / Yoruba </b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level in subjects in Yoruba/Igbo and any two of History, IRS/CRS, French, Government, Music, Visual Arts and Literature- in- English. \n
+
+II. NCE (Merit) in two subjects to include a Nigerian Language. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and any three Arts, Science or Social Sciences. Social Studies and Civic Education are also accepted. \n\n
+<b>UTME Subjects:</b>\n
+English Language and any three Arts, Science or Social Sciences. \n\n
+
+<b>C. CHINESE</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Lagos does not accept Direct Entry. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and any three Arts, Social Sciences or Science. Social Studies and Civic Education are also accepted. \n\n
+<b>UTME Subjects:</b>\n
+English Language and any three Arts, Social Sciences or Science. \n\n
+
+<b>6. PHILOSOPHY </b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Any three of Literature-in-English, Igbo/Yoruba, CRS/IRS, French, History, Economics, Government, Chemistry, Physics, Biology but at least one Arts subject. \n
+
+II. Related field with a minimum of 55% average score. \n
+
+III. NCE credit in two (2) teaching subjects one of which must be Arts subjects. \n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, One Arts subject and any two Arts, Social Sciences and Science. Civic Education is also accepted. \n\n
+<b>UTME Subjects:</b>\n
+English Language, one Arts subject and any other two subjects from Arts, Social Sciences or Science. \n\n
+
+<b>7. CHRISTIAN RELIGIOUS STUDIES</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Passes at the GCE A/level or its equivalents. One of the A/level Subjects should be CRS.\n
+
+II. NCE with credit or merit in CRS.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, CRS and any other subjects. \n\n
+
+<b>UTME Subjects:</b>\n
+English Language, CRS and any two (2) from Literature-in-English, History, Government, French, Yoruba, Igbo, Hausa, Visual Arts, Economics and Commerce. \n\n
+
+<b>8. ISLAMIC STUDIES</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Passes at the GCE A/level or its equivalents. One of the A/level Subjects should be Islamic Studies. \n
+
+II. NCE with credit or merit in Islamic Studies.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Islamic Studies and any other two subjects.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Islamic Studies and any two (2) from Literature-in-English, History, Government, French, Yoruba, Igbo, Visual Arts, Economics and Commerce.\n
+
+    </string>
+    <string name="faculty_arts">Faculty of Arts</string>
+
+    <string name="faculty_basic_med_sci"><b>FACULTY OF BASIC MEDICAL SCIENCES </b>\n\n
+
+<b>1. PHARMACOLOGY</b>\n\n
+
+<b>Direct Entry Requirements: </b>\n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology. \n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology, Chemistry and Physics. \n\n
+<b>UTME Subjects:</b>\n
+English Language, Biology, Chemistry And Physics. \n\n
+
+<b>2. PHYSIOLOGY</b>\n\n
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology, Chemistry and Physics. \n\n
+
+<b>UTME Subjects:</b> \n
+English Language, Biology, Chemistry And Physics.\n\n
+
+<b>3. MEDICAL LABORATORY SCIENCE </b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology.\n
+
+II. BSc Degree First Class/Second Class Upper in medically related programmes.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology, Chemistry and Physics. \n\n
+
+<b>UTME Subjects:</b>\n
+English Language, Biology, Chemistry and Physics. \n
+    </string>
+    <string name="faculty_bus_admin"><b>FACULTY OF BUSINESS ADMINISTRATION</b>\n\n
+<b>1. ACCOUNTING</b>\n\n
+<b>Direct Entry Requirements:</b>\n
+        I)Very good passes in three (3) JUPEB subjects: Economics and any two (2) of Financial Accounting, Business Management, Government, and Geography.\n
+
+II) Two (2) A/Level passes chosen from Economics, Accounting, Business Management, Government and Geography.\n\n
+
+<b>UTME Requirements:</b>\n Five O/Level credit passes in English Language, Mathematics, Economics, and any two (2) subjects from the following: Financial Accounting / Principle of Accounting, Further Mathematics, Geography, Government, Biology, Business Management, Data Processing / Computer Studies, Literature in English.\n\n
+
+<b>UTME Subjects:</b>\n English Language, Mathematics, Economics, plus one (1) subject from the following: Financial Accounting, Further Mathematics, Geography, Government, Biology and Literature-in-English. \n\n
+
+<b>2. ACTUARIAL SCIENCE</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three (3) JUPEB/A Level subjects: Mathematics and any two (2) of Financial Accounting, Geography, Government, Biology, Economics, Business Studies, Chemistry, Physics. \n\n
+
+<b>UTME Requirements:</b>\n
+Five O/Level credit passes in English Language, Mathematics, Economics, and any two (2) of Financial Accounting, Data Processing, CRS/IRS, Further Mathematics, Geography, Government, Biology, Chemistry, Physics, Commerce, Civic Education, Insurance. \n\n
+
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Economics and one of Further Mathematics, Geography, Government, Biology, Chemistry, Physics, Commerce, Financial Accounting. \n\n
+
+<b>3. BUSINESS ADMINISTRATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three (3) JUPEB/A Level subjects: Economics and any two (2) of Financial Accounting, Business Management, Government, Geography or Statistics.\n\n
+<b>UTME Requirements:</b>\n Five O/Level credit passes in English Language, Mathematics, Economics, and any two (2) subjects from Financial Accounting, Government, Geography, CRS/IRS, Business Management.\n\n
+<b>UTME Subjects:</b>\n English Language, Mathematics, Economics and one subject from Science, Social Sciences or Arts.\n\n
+
+<b>4. BANKING AND FINANCE</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three (3) JUPEB/A Level subjects: Economics and any other two (2) subjects from Financial Accounting, Business Studies, Mathematics, Geography and Government. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Economics, and any two (2) subjects from Government, Geography, Commerce, Financial Accounting, Physics, Chemistry, Biology, Business Management and Book Keeping. \n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Economics and one (1) subject from Science, Social Sciences or Arts. \n\n
+
+<b>5. INSURANCE</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three (3) JUPEB/A Level subjects: Financial Accounting, Geography, Government, Biology, Economics, Chemistry, Physics and Business Management / Business Studies. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Economics, and any two (2) of Financial Accounting, Data Processing, CRS/IRS, Further Mathematics, Geography, Government, Biology, Chemistry, Physics, Commerce, Civic Education, Insurance.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Economics and any one (1) subject from Financial Accounting, Geography, Government, Biology, Chemistry, Physics and Commerce.\n\n
+
+<b>6. INDUSTRIAL RELATIONS AND PERSONNEL MANAGEMENT</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three (3) JUPEB/A Level subjects: Economics and any other two (2) subjects from Financial Accounting, Business Studies, Government, and Geography. \n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Economics, and any two (2) of Financial Accounting, Geography, Government, Data Processing, Biology, Business Management and Social Studies. \n\n
+<b>UTME Subjects:</b> \n
+English Language, Mathematics, Economics and one (1) subject from Science, Social Sciences or Arts. \n
+
+</string>
+    <string name="faculty_cli_sci">Faculty of Clinical Sciences</string>
+    <string name="faculty_edu">Faculty of Education</string>
+    <string name="faculty_eng">Faculty of Engineering</string>
+    <string name="faculty_env_sci">Faculty of Environmental Sciences</string>
+    <string name="faculty_law">Faculty of Law</string>
+    <string name="faculty_pharm">Faculty of Pharmacy</string>
+    <string name="faculty_sci">Faculty of Science</string>
+    <string name="faculty_soc_sci">Faculty of Social Science</string>
+    <string name="unilag_admission_requirements">Unilag Admission Requirements</string>
+    <string name="useful_resources">Useful Resources</string>
+    <string name="faculty_of_arts">Faculty of Arts</string>
+    <string name="faculty_of_basic_medical_sciences">Faculty of Basic Medical Sciences</string>
+    <string name="faculty_of_business_administration">Faculty of Business Administration</string>
+    <string name="about_app">About App</string>
+    <string name="about_lagtutor_content">
+        The LagTutor App is a digital tool to inform and prepare candidates for success in their university entrance examinations with particular focus on Unilag.\n\n
+The information contained in this app will let you:\n\n
+i) know the specific admission requirements for the undergraduate programs offered in Unilag through UTME and Direct Entry;\n\n
+ii) know how to view the Unilag undergraduate cut-off marks for all courses from 2011 - 2019;\n\n
+iii) know your UTME target scores;\n\n
+iv) know how to calculate your O-level aggregate score.\n\n
+Good knowledge of these pieces of information is key in the preparation for success.\n
+
+    </string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_lagtutor">Contact LagTutor</string>
+    <string name="contact_lagtutor_content">
+You can reach us via:\n
+WhatsApp on: +234 809 232 7228\n
+Email: lagtutorial@gmail.com\n
+Website: https://LagTutor.com\n\n
+We offer home tutoring to prepare candidates for success in UTME, Unilag post UTME, Unilag foundation entrance examination, WASSCE, and NECO.
+See: https://LagTutor.com/home_tutorials.php \n
+</string>
+
+    <string name="cutoff_marks">Cut-off Marks</string>
+    <string name="cutoff_uri">https://lagtutor.com/unilag-cutoffs.php</string>
+    <string name="cbt_uri">https://lagtutor.com/onlinetest/</string>
+    <string name="unilag_cutoff_marks">
+        <b>Unilag Cut-off marks</b>\n\n
+We have a database of the Unilag cut-off marks from 2011 - 2019 on our website.
+Knowledge of the cut-off marks will help you as you work towards meeting the admission requirements for your chosen course.\n\n
+The cut-off marks are an indication of how competitive the courses are and its knowledge will let you know what scores you need for the respective courses on offer.\n\n
+You can see the Unilag cut-off marks from 2011 - 2019 at https://LagTutor.com/unilag-cutoffs.php .\n
+    </string>
+    <string name="online_cutoff_marks">Online Cutoff Marks</string>
+    <string name="unilag_cutoffs_2011_2019">Unilag Cutoffs 2011 – 2019</string>
+    <string name="know_your_utme_target">Know Your UTME Target</string>
+    <string name="utme_target_uri">https://lagtutor.com/unilag-utme-target.php</string>
+    <string name="know_your_utme_target_score">
+        <b>UTME Target Score</b>\n\n
+Do you know that based on the 2019 merit cut-off score for Medicine and Surgery (MBBS) in Unilag a candidate would need scores like 326/400 in UTME, 25/30 in post UTME, and 17/20 O-level aggregate to make the merit list?\n\n
+For English Language Arts the target scores are 259/400 in UTME, 20/30 in post UTME, and 13/20 O-level aggregate.\n\n
+You can know the target scores for your course using our online calculator.\n
+    </string>
+    <string name="calculate_your_o_level_aggregate">Calculate Your O-level Aggregate</string>
+    <string name="olevel_aggregate_uri">https://lagtutor.com/olevel_aggregate.php</string>
+    <string name="calculate_your_o_level_aggregate_score">
+        <b>O-Level Aggregate Score</b>\n\n
+
+Unilag calculates aggregate scores of applicants by weighting 20% to O-level result, 50% to the UTME score, and 30% to the post UTME score.\n\n
+In this system of scoring A1 = 4.0 points; B2 = 3.6 points; B3 = 3.2 points; C4 = 2.8 points; C5 = 2.4 points; C6 = 2.0 points.\n\n
+Grades must be obtained at ONE SITTING.\n
+    </string>
+    <string name="olevel_aggregate_calculator">OLEVEL AGGREGATE CALCULATOR</string>
+    <string name="home_tutoring">Home Tutoring</string>
+    <string name="home_tutoring_service"><b>Home Tutoring Service</b>\n\n
+We offer home tutoring to prepare candidates for success in UTME, Unilag post UTME, Unilag foundation entrance examination (for admission into the Unilag JUPEB preparatory programme), WASSCE, and NECO.\n\n
+The subjects for which we prepare candidates are:\n
+English Language;\n
+Mathematics;\n
+Chemistry;\n
+Physics;\n
+Biology;\n
+Government;\n
+Economics; and\n
+Further Mathematics.\n\n
+Our service area is Lagos State.\n
+</string>
+    <string name="caseray_solutions">Caseray Solutions</string>
+    <string name="contact_caseray_solutions">Contact Caseray Solutions</string>
+    <string name="caseray_uri">https://caseray.com.ng</string>
+    <string name="caseray_solutions_content">Caseray Solutions Limited are the technology providers of the https://LagTutor.com project.
+We offer digital technology solutions to persons, organisations, schools and businesses. Our services are:\n\n
+i) Website design and development (corporate, e-commerce, blog);\n\n
+ii) Digital marketing (on Google, Facebook, LinkedIn);\n\n
+iii) HTML newsletters;\n\n
+iv) Mobile apps for android;\n\n
+v) Database design and development;\n\n
+vi) Cloud computing services (Google Cloud Platform);\n\n
+vii) E-learning solutions;\n\n
+viii) Online registration;\n\n
+ix) IT training services and consultancy.\n\n
+
+You can see more on our websites at https://caseray.com.ng and https://caseraysolutions.com. \n
+</string>
+    <string name="share_this_app">Share This App</string>
+    <string name="share_this_app_text">
+        Get the LagTutor Android App on PlayStore at: https://play.google.com/store/apps/details?id=com.lagtutor.android.lagtutorapp
+    </string>
+    <string name="text_faculty_of_clinical_sciences">
+        <b>FACULTY OF CLINICAL SCIENCES</b> \n\n
+
+<b>1. MEDICINE AND SURGERY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Physics, Chemistry and Biology.\n
+
+II. B. Sc. Degree First Class/Second Class Upper in medically related programmes.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology, Chemistry and Physics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Biology, Chemistry and Physics.\n\n
+
+<b>2. PHYSIOTHERAPY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Physics, Chemistry and Biology.\n
+II. B. Sc. Degree First Class/Second Class Upper in medically related programmes.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology, Chemistry and Physics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Biology, Chemistry and Physics.\n\n
+
+<b>3. RADIOGRAPHY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: Physics, Chemistry and Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology, Chemistry and Physics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Biology, Chemistry and Physics.\n
+    </string>
+    <string name="text_faculty_of_education">
+        <b>FACULTY OF EDUCATION</b> \n\n
+<b>SCIENCE AND TECHNOLOGY EDUCATION</b>\n\n
+<b>1. BIOLOGY EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE with credit / merit in Biology and any Science subject.\n
+II. Very good passes in the following JUPEB subjects: Biology, Chemistry and Physics.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology, Chemistry and any one of Physics, Agricultural Science, Integrated Science and Fisheries / Animal Husbandry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Biology and two subjects from Chemistry, Mathematics and Physics.\n\n
+
+
+<b>2. CHEMISTRY EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE with credit / merit in Chemistry and any Science subject.\n
+
+II. Very good passes in the following JUPEB subjects: Physics, Chemistry and Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Chemistry and any two of Physics, Biology, Agricultural Science, Integrated Science and Fisheries / Animal Husbandry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry and any two of Physics, Biology, Agricultural Science.\n\n
+
+<b>3. INTEGRATED SCIENCE EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE with credit / merit in Integrated Science or Science Education and one other Science subject.\n
+
+II. Very good passes in the following JUPEB subjects: Physics, Chemistry and Biology.\n
+
+III. Three A/Level passes in Science subjects.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Chemistry, Biology and any one of Agricultural Science, Integrated Science, Fisheries / Animal Husbandry.\n\n
+
+<b>UTME Subjects:</b>\n
+English Language, Mathematics and any two of Chemistry, Physics, Biology and Agricultural Science.\n\n
+
+<b>4. MATHEMATICS EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE with credit / merit in Mathematics and Science subject.\n
+
+II. Very good passes in three JUPEB subjects: Mathematics, Physics, Chemistry, and O/Level requirements.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, and two of Chemistry, Biology, Agricultural Science, Further Mathematics, Computer Studies / Data Processing.\n\n
+
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics, and any one of Chemistry, Biology.\n\n
+
+<b>5. PHYSICS EDUCATION</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. NCE with credit / merit in Physics and one of Mathematics, Chemistry and Biology.\n
+
+II. Very good passes in three JUPEB subjects: Physics and Chemistry and any one of Biology or Mathematics.\n
+
+III. Three A/Level passes to include Physics and Mathematics.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and any one of Biology, Further Mathematics, Agricultural Science, Integrated Science, Computer Studies / Data Processing.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Mathematics / Chemistry and one of Biology, Agricultural Science.\n\n
+
+<b>6. TECHNOLOGY EDUCATION With Options in (i) Auto-Mobile / Mechanical Technology; (ii) Building / Wood Work Technology; (iii) Electrical / Electronics Technology </b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+1. NCE Merit / Credit in Technical drawing / Wood-work, Technical drawing Automobile, Technical drawing / Building, Technical drawing / Electrical Electronics, Technical drawing / Metal work.\n
+2. Very good passes in three JUPEB subjects: Physics / Technical Drawing and any other two Science subjects.\n
+3. NABTEB / NTC Advanced. \n
+4. London City and Guilds of London Advanced. \n
+5. WAEC Technical Advanced. \n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics / Technical Drawing and any two Technical or Science subjects.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physical / Technical Drawing and any one Science / Technical subject.\n\n
+<b>7. EDUCATION HOME ECONOMICS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE or ND in Home Economics, Catering and Hotel Management, Textile Management and any other relevant subject with a minimum of merit pass.
+
+II. Very good passes in three JUPEB subjects: Chemistry, Biology and one other subject from Economics, Food and Nutrition, Home Management and Clothing and Textile.
+
+III. Two A/Level passes in any two relevant Science subjects of Chemistry and any one of Biology, Botany and Agric. Science.
+
+IV. HND Home Economics or Food Science or Hotel and Management or any other related courses at a minimum of merit pass.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Chemistry, and any two of Economics, Biology, Physics, Food and Nutrition / Home Management, Clothing and Textile, Garment Making / Dyeing and Bleaching / Catering Craft Practice.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Biology / Agricultural Science and one other subject from Mathematics, Physics, Food and Nutrition.\n\n
+
+<b>8. ADULT EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE credit / merit in: English, History, French, Geography, Mathematics, Igbo / Yoruba, CRS/IRS, Economics, Government, Business Education and Accounting Education.\n
+
+II. Very good passes in three JUPEB subjects: Literature-in-English, Economics, CRS/IRS, Government, History, Igbo / Yoruba, Geography, Mathematics and French.\n
+
+III. Three A/Level passes from English Language, History, French, Geography, Mathematics, Igbo / Yoruba, CRS/IRS, Economics and Government.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and any three of Literature-in-English, History / Government, Geography, Economics / Commerce, Nigerian Language, CRS/IRS, French, Civic Education / Social Studies and Business Studies. \n\n
+
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History / Government, French, Geography, Mathematics, any Nigerian Language, CRS/IRS, Economics / Commerce. \n\n
+
+<b>9. EDUCATIONAL ADMINISTRATION</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. NCE credit / merit in Arts, Social Sciences.\n
+II. Very good passes in any three JUPEB subjects: Economics, Literature-in-English, CRS/IRS, Government, History, Geography, Igbo / Yoruba and French.\n
+III. Three A/Level passes from English Language, History, French, Geography, Mathematics, Yoruba / Igbo, CRS/IRS, Economics and Government.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and any three of Literature-in-English, History / Government, Geography, Economics / Commerce, any Nigerian Language, CRS/IRS.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History / Government, Geography, Mathematics, any Nigerian Language, CRS/IRS, Economics / Commerce.\n\n
+
+<b>10. HUMAN KINETICS AND HEALTH EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE credit / merit in Physical Education / Physical and Health Education / Human Kinetics and Health Education.\n
+II. Very good passes in three JUPEB subjects: Biology / Health Science / Physical Education and one other Science Subject. \n
+III. Unilag 2-year Diploma in HKE. \n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology / Health Science / Physical Education, one Science subject and any other subject.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Biology and any two Science subjects.\n\n
+
+<b>11. EDUCATIONAL FOUNDATIONS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB subjects: Literature in English, Economics, CRS/IRS, Government, History, Igbo, Yoruba, French and Geography.\n
+II. Three A/Level passes in Literature in English, Economics, CRS/IRS, Government, History, Igbo, Yoruba, French and Geography.\n
+III. NCE - Any two of Literature in English, Economics, CRS/IRS, Government, History, Igbo, Yoruba, French and Geography.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and three of Literature-in-English, History, Government, Geography, Economics, Yoruba / Igbo, CRS/IRS, French and Civic Education.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History, French, Geography, Mathematics, Yoruba / Igbo, CRS/IRS, Economics, Government, and Commerce.\n\n
+
+<b>ARTS AND SOCIAL SCIENCE</b>\n\n
+<b>12. CHRISTIAN RELIGIOUS STUDIES EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE: credit / merit in CRS and any Arts subject.\n
+
+II. Very good passes in three JUPEB subjects: CRS and any two of Government, History, Literature-in-English, Geography, Economics, Yoruba, Igbo, and French.\n
+
+III. Three A/Level passes in relevant teaching subject areas.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, CRS and any two of Literature-in-English, any Nigerian Language, History / Government, French, Economics / Commerce, Geography, Civic Education / Social Studies.\n\n
+<b>UTME Subjects:</b>\n
+English Language, CRS and any two of Literature-in-English, History / Government, French, Geography, Mathematics, any Nigerian Language, Economics / Commerce.\n\n
+
+<b>13. ENGLISH EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE: credit / merit in English, Literature-in-English, Mathematics and any two subjects.\n
+II. Very good passes in three JUPEB subjects: Literature-in-English and any two of French, Igbo / Yoruba, History, CRS/IRS, Government, Economics and Arabic.\n
+III. Three A/Level passes in relevant teaching subject areas.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Literature-in-English and any two of History / Government, any Nigerian Language, Economics / Commerce, Geography, French / Arabic, CRS/IRS, Civic Education.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History / Government, French / Arabic, Geography, Mathematics, any Nigerian Language, CRS/IRS, Economics / Commerce.\n\n
+
+<b>14. FRENCH EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE: credit/merit: Subject (French and any other two Arts subjects) NFLV Diploma / Modules I-III.\n
+II. Very good passes in three JUPEB subjects: French and any two of Literature-in-English, CRS, IRS, Igbo / Yoruba, Government / History.\n
+III. Three A/Level passes in relevant teaching subject areas.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, and any three of French / Arabic, Literature-in-English, any Nigerian Language, History / Government, Geography, Economics / Commerce, CRS/IRS, Civic Education / Social Studies.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History / Government, French / Arabic, Geography, Mathematics, any Nigerian Language, CRS/IRS, Economics / Commerce.\n\n
+<b>15. GEOGRAPHY EDUCATION</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB subjects: Geography and any two of Economics, Government / History, CRS/IRS, Igbo / Yoruba.\n
+II. Three A/Level passes in relevant teaching subject areas. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Geography and any two of Literature-in-English, History / Government, French, Biology, Chemistry, any Nigerian Language, CRS/IRS, Economics, Integrated Science, Civic Education / Social Studies.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History / Government, French / Arabic, Geography, Mathematics, any Nigerian Language, CRS/IRS, Economics / Commerce.\n\n
+
+<b>16. HISTORY EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE credit / merit in: History, Social Studies and Political Science.\n
+II. Very good passes in three JUPEB subjects: History and any two of CRS/IRS, Literature-in-English, Igbo / Yoruba, Government, French and Geography.\n
+III. Three A/Level passes in relevant teaching subject areas.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, History / Government and any two of CRS/IRS, French / Arabic, Geography and Economics, any Nigerian Language, Civic Education / Social Studies.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History / Government, French / Arabic, Geography, Mathematics, any Nigerian Language, CRS/IRS, Economics / Commerce.\n\n
+<b>17. IGBO EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE credit / merit in Igbo any two Arts subjects.\n
+II. Very good passes in three JUPEB subjects: Igbo and two of French, Yoruba, Literature in English, CRS/IRS, Geography and Government / History and O\Level requirements.\n
+III. Three A/Level passes in relevant teaching subject areas.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Igbo and any two of French / Arabic, Literature-in-English, History / Government, Geography, Economics / Commerce, CRS / IRS / WATR (West African Traditional Religion), Civic Education.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three of Literature-in-English, History / Government, French / Arabic, Geography, Mathematics, Igbo, CRS/IRS, Economics / Commerce.\n\n
+<b>18. ISLAMIC STUDIES EDUCATION</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. NCE credit / merit in Islamic Studies.\n
+II. Very good passes in three JUPEB subjects: IRS and any two of Government / History, Literature in English, French, Yoruba / Igbo and Economics.\n
+III. Three A/Level passes in relevant teaching subject areas.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Islamic Religious Studies (IRS) and two of Literature in English, any Nigerian Language, History / Government, French / Arabic, Economics / Commerce, Civic Education / Social Studies.\n\n
+<b>UTME Subjects:</b>\n
+English Language and Islamic Religious Studies (IRS) and any two of Literature in English, History / Government, French / Arabic, Geography, Mathematics, Yoruba / Igbo, CRS, Economics / Commerce.\n\n
+<b>19. YORUBA EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE credit / merit in Yoruba and any two Arts subjects.\n
+II. Very good passes in three JUPEB subjects: Yoruba and any two of French, Literature in English, Government / History, CRS/IRS and Geography.\n
+III. Three "A" Level passes in Yoruba, and any of English, CRS/IRS, Igbo, French, History, Geography and Arabic. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Yoruba and two of Literature in English, Economics, History / Government, French / Arabic, CRS / IRS / WATR West African Traditional Religion), Civic Education.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Yoruba and two of Government / History, Literature in English, French / Arabic, CRS/IRS, Geography Economics / Commerce.\n\n
+<b>20. EARLY CHILDHOOD EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE: credit / merit in: Primary Education Studies and any teaching subject .\n
+II. Very good passes in three JUPEB subjects in Arts, Sciences or Social Sciences except commerce and typing and shorthand.\n
+III. Three A/Level passes in relevant subjects in Arts, Sciences and Social Sciences except commerce and Typing.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics and any three subjects.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three subjects.\n\n
+<b>21. BUSINESS EDUCATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. NCE merit level pass in Business Education (Double Major).\n
+II. Very good passes in three JUPEB subjects: Economics any two of Accounting, Geography, Government, Business Management.\n
+III. Three A/Level passes in any relevant subjects.\n
+IV. NCE with Merit passes in two relevant subjects Financial Accounting, Office Management.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Economics and two subjects from Arts or Social Sciences, Data Processing / Office Practice, Financial Accounting.\n\n
+
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Economics, and any one of Arts or Social Sciences subject.\n\n
+
+<b>22. EDUCATION ECONOMICS</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. NCE merit level passes in Economics and any one of Geography, Government, and Financial Accounting.\n
+IV. Very good passes in three JUPEB subjects: Economics, Mathematics and other subject from Geography, Government, Accounting.\n
+III. Three A/Level passes in Economics and any two of Geography, Government and Commerce.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Economics and any two of Geography, History / Government, Literature-in-English, Financial Accounting and Civic Education / Social Studies.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Economics, Mathematics and any one of Geography, History / Government and Literature-in-English. \n
+    </string>
+    <string name="text_faculty_of_engineering">
+        <b>FACULTY OF ENGINEERING</b> \n\n
+<b>1. BIOMEDICAL ENGINEERING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: Physics, Mathematics, Chemistry.\n\n
+<b>UTME Requirements:</b> \n
+Six O/Level credit passes in English Language, Mathematics, Further Mathematics, Biology, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>2. CHEMICAL ENGINEERING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Physics, Mathematics, Chemistry.\n
+II. HND/ND (Distinction) in related Engineering courses.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>3. CIVIL AND ENVIRONMENTAL ENGINEERING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Physics, Mathematics, and Chemistry.\n
+II. HND (Upper Credit) in Civil Engineering courses.\n
+III. ND (Distinction) in Civil Engineering courses.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>4. COMPUTER  ENGINEERING</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Physics, Mathematics, Chemistry.\n
+II. HND/ND (Distinction) in related Engineering courses.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>5. ELECTRICAL AND ELECTRONICS ENGINEERING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Physics, Mathematics, Chemistry.\n
+II. HND/ND (Distinction) in related Engineering courses.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>6. MECHANICAL ENGINEERING</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Physics, Mathematics, Chemistry.\n
+II. HND/ND (Distinction) in related Engineering courses.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>7. METALLURGICAL AND MATERIALS ENGINEERING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB subjects: Physics, Mathematics, Chemistry.\n
+II. A Level Cambridge\n
+III. HND (Upper Credit) and OND (Distinction) in Metallurgical and Materials Engineering.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>8. PETROLEUM AND GAS ENGINEERING</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB subjects: Physics, Mathematics, Chemistry.\n
+II. A Level Cambridge\n
+III. HND/ND (Distinction).\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>9. SURVEYING AND GEOINFORMATICS ENGINEERING</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB subjects: Physics, Mathematics, Chemistry.\n
+II. A/Level Cambridge.\n
+III. HND/ND (Minimum Upper Credit) into 200 Level.\n
+IV. Federal School of Surveying Certificate into 300 Level at a minimum of Upper Credit.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n\n
+
+<b>10. SYSTEMS ENGINEERING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB subjects: Physics, Mathematics, Chemistry.\n
+II. A/Level Cambridge.\n
+III. HND/ND (Upper Credit) into 300L/200L includes Engineering courses such as Chemical, Civil and Environmental, Computer, Electrical and Electronics, Metallurgical and Materials, Petroleum and Gas, Surveying and Geo-informatics.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and Chemistry.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Mathematics and Physics.\n
+
+    </string>
+    <string name="text_faculty_of_environmental_sciences">
+        <b>FACULTY OF ENVIRONMENTAL SCIENCES</b> \n\n
+<b>1. ARCHITECTURE</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Mathematics, Physics and any one of Chemistry, Biology, Economics, Geography or Fine Arts.\n
+II. HND/ND (Distinction) and O/level requirements in relevant field into 300/200 Level.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Fine Arts or Technical Drawing and any one of Economics, Geography, Chemistry, Biology, Painting and Decoration / Building Construction.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and any one of Chemistry, Geography, Economics or Biology.\n\n
+
+<b>2. BUILDING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Mathematics, Physics and Chemistry.\n
+II. HND/ND (Distinction) requirements in relevant field into 300/200 level.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and any one of Building Construction, Technical Drawing and Economics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and Chemistry.\n\n
+
+<b>3. ESTATE MANAGEMENT</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Mathematics, Economics and any one of Chemistry and Geography.\n
+II. HND/ND (Distinction) requirements in relevant field into 300/200 level.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Economics,Chemistry / Physics, and any one of Biology, Geography, Agricultural Science, Technical Drawing / Fine Arts and Financial Accounting.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Economics and any one of Chemistry, Physics, Biology, Geography and Financial Accounting.\n\n
+
+<b>4. QUANTITY SURVEYING</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Mathematics, Physics and Chemistry.\n
+II. HND/ND (Upper Credit) requirements in relevant field into 300/200 level.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics and any two of Geography, Chemistry, Technical Drawing and Economics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and any one of Chemistry, Economics or Geography.\n\n
+
+<b>5. URBAN AND REGIONAL PLANNING</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Mathematics, Geography and any one of Chemistry, Physics, Biology or Economics.\n
+II. HND/ND (Distinction) in Urban and Regional Planning into 300/200 level.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Geography and any two of Physics, Biology, Chemistry, Economics and Fine Arts / Technical Drawing.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Geography / Economics and any one of Chemistry, Physics, Biology, Fine Arts / Technical Drawing.\n
+    </string>
+    <string name="text_faculty_of_law">
+        <b>FACULTY OF LAW</b> \n\n
+<b>1. LAW</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level Subjects: Literature-in-English and any two Arts or Social Sciences subjects.\n
+II. First Degree with a minimum of Second Class Upper.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Literature-in-English and any two of Arts or Social Sciences subjects.\n\n
+<b>UTME Subjects:</b>\n
+English Language and any three Arts or Social Sciences subjects. Lagos does not accept Music, Fine Arts and Principles of Accounting. Lagos accepts either Economics or Commerce but not both.\n
+    </string>
+    <string name="text_faculty_of_pharmacy">
+        <b>FACULTY OF PHARMACY</b> \n\n
+<b>1. PHARMACY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in JUPEB/A Level subjects: Physics, Chemistry, Biology.\n
+II. Does not accept BSc. degrees.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n
+    </string>
+    <string name="text_faculty_of_science">
+        <b>FACULTY OF SCIENCE</b> \n\n
+<b>1. BIOCHEMISTRY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n\n
+
+<b>2. BOTANY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n\n
+
+<b>3. CELL BIOLOGY AND GENETICS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n\n
+
+<b>4. CHEMISTRY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and any of Biology or Mathematics.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Chemistry, Physics and any of Biology or Mathematics. \n\n
+
+<b>5. COMPUTER SCIENCE</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in the following JUPEB/A Level subjects: Physics, Mathematics, Chemistry or Biology.\n
+II. Candidate must have O/Level credit in Further Mathematics.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and any of Chemistry or Biology.\n\n
+
+<b>6. FISHERIES</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology.\n\n
+<b>Does not accept NCE/HND</b>.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n\n
+
+<b>7. GEOLOGY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Mathematics, Chemistry, Physics.\n\n
+Candidates must have O/Level credit pass in Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and Chemistry. \n\n
+
+<b>8. GEOPHYSICS</b> \n\n
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Mathematics, Chemistry, Physics.\n\n
+Candidates must have O/Level credit pass in Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and Chemistry. \n\n
+
+<b>9. INDUSTRIAL MATHEMATICS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Mathematics and any one (1) of Chemistry, Biology, Economics and Geography and requires O-Level credit pass in Further Mathematics.\n
+
+Does not accept NCE.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in Mathematics, English Language, Further Mathematics, Physics and any one of Economics, Chemistry and Geography.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and any of Chemistry, Economics, Biology and Geography. \n\n
+
+<b>10. MARINE BIOLOGY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in Mathematics, English Language, Biology, Chemistry and Physics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n\n
+
+
+<b>11. MATHEMATICS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Mathematics and any one of Chemistry, Biology, Geography and Economics.\n
+Candidate must have O/Level credit in Further Mathematics.\n
+Does not accept NCE.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and any one of Economics, Chemistry and Geography.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and any of Chemistry, Economics, Biology and Geography. \n\n
+
+<b>12. MICROBIOLOGY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Chemistry and Biology.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in Mathematics, English Language, Biology, Chemistry and Physics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n\n
+
+<b>13. PHYSICS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Mathematics, and Chemistry.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Physics, Mathematics, Chemistry and Further Mathematics.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Mathematics and Chemistry. \n\n
+
+<b>14. STATISTICS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Physics, Mathematics and any one of Chemistry, Biology, Geography and Economics.\n
+
+Candidate must have O/Level credit in Further Mathematics.\n
+
+Does not accept NCE.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Further Mathematics, Physics and any one of Economics, Chemistry and Geography.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Physics and any of Chemistry, Economics, Biology and Geography. \n\n
+
+<b>15. ZOOLOGY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in the following JUPEB/A Level subjects: Biology, Chemistry, Physics.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Physics, Chemistry and Biology.\n\n
+<b>UTME Subjects:</b>\n
+English Language, Physics, Chemistry and Biology. \n
+    </string>
+    <string name="text_faculty_of_social_science">
+        <b>FACULTY OF SOCIAL SCIENCE</b> \n\n
+
+<b>1. ECONOMICS</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Economics and any two of Accounting, Geography, Mathematics, Government, Physics, Chemistry and Biology.\n
+II. Three Cambridge A/Level passes in Economics and any two of the following: Accounting, Geography, Mathematics, Government, Physics and Biology.\n\n
+
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Economics and any two from Arts, Social Sciences and Science subjects. Commerce is not accepted. \n\n
+<b>UTME Subjects:</b>\n
+English Language, Mathematics, Economics and any Arts, Science or Social Sciences subject but does not accept Commerce. \n\n
+
+<b>2. GEOGRAPHY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: Geography and any two of Economics, Chemistry, Biology, Physics and Government.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Geography and any two of Economics, Government, Further Mathematics, Physics, Chemistry and Biology. \n\n
+<b>UTME Subjects:</b>\n
+English Language, Geography and any two from Biology, Chemistry, Physics, Economics, Government and Mathematics.  \n\n
+
+<b>3. MASS COMMUNICATION</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: Literature-in-English and any two of Economics, Government, History and CRS/IRS. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics Literature-in-English and two of Economics, History / Government, Geography, any Nigerian Language, CRS/IRS and Civic Education. \n\n
+<b>UTME Subjects:</b>\n
+English Language, Literature-in-English and any two subjects from Arts or Social Sciences.\n
+** Mathematics is accepted. \n\n
+
+<b>4. POLITICAL SCIENCE</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: Government and any two of Literature-in-English, Economics, CRS/IRS, History. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Government, Economics / Geography and any one of History, Literature-in-English, CRS/IRS. \n\n
+<b>UTME Subjects:</b>\n
+English Language, Government and any two subjects from Economics, Geography, History, Literature-in–English, CRS/IRS and Mathematics. \n\n
+
+<b>5. PSYCHOLOGY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: Biology and any two of Economics, Government, Chemistry, Physics and Literature-in-English. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, Biology and any two subjects from Science, Social Sciences or Arts subjects (including Health Education, Health Science and integrated Science).\n
+LAGOS does not accept Commerce, CRS/IRS and Financial Accounting. \n\n
+<b>UTME Subjects:</b>\n
+English Language and any three subjects from Mathematics, Biology, Physics, Chemistry, Economics, Government and Literature-in-English. \n\n
+
+<b>6. SOCIAL WORK</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+I. Very good passes in three JUPEB/A Level subjects: Any three of Economics, Government, Geography, History and CRS/IRS. \n
+II. University of Lagos Diploma in Social Development and Administration (SDA) with at least one year post qualification experience.\n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, and any two of Economics, Government / History, Civic Education and Geography and one of Literature-In-English, CRS/IRS, any Nigerian Language and Biology. \n\n
+<b>UTME Subjects:</b>\n
+English Language, two Social Sciences subjects and one Arts subject.\n
+** Mathematics is accepted. \n\n
+
+<b>7. SOCIOLOGY</b> \n\n
+
+<b>Direct Entry Requirements:</b> \n
+Very good passes in three JUPEB/A Level subjects: Any three of Economics, Government, Geography, History and CRS/IRS. \n\n
+<b>UTME Requirements:</b> \n
+Five O/Level credit passes in English Language, Mathematics, and any two of Economics, Government / History, Civic Education and Geography and any one of Literature-in-English, CRS/IRS, and any Nigerian Language. \n\n
+<b>UTME Subjects:</b>\n
+English Language, two Social Sciences and one Arts subject.\n
+** Mathematics is accepted. \n
+    </string>
+    <string name="de_o_level_note">
+        <b>** DE CANDIDATES MUST SATISFY ALL O-LEVEL REQUIREMENTS</b>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_3">Unilag MBA</string>
+    <string name="tab_2">Foundation</string>
+    <string name="tab_1">Post UTME</string>
+    <string name="past_questions">Past Questions</string>
+
+    <string name="past_questions_2">Past Questions 2</string>
+    <string name="tab_label1">Post UTME</string>
+    <string name="tab_label2">Foundation</string>
+    <string name="tab_label3">Unilag MBA</string>
+    <string name="utme">UTME</string>
+    <string name="contact">Contact</string>
+    <string name="fab_text_string">Feel free to reach us on WhatsApp on +2348092327228</string>
+    <string name="unilag_foundation">Unilag Foundation</string>
+    <string name="unilag_mba">Unilag MBA</string>
+    <string name="cbt_practice">CBT Practice</string>
+    <string name="cbt_content">The key to doing well in Computer Based Tests is reading instructions, understanding them and adhering to them.\n\n
+    We have online tests you can practice with to get a feel of standard Unilag CBTs.\n\n
+    See https://lagtutor.com/onlinetest/ \n\n
+    </string>
+    <string name="take_online_test">Take Online Test</string>
+    <string name="label_cbt_practice">CBT practice</string>
+    <string name="label_unilag_mba">Unilag MBA</string>
+    <string name="hit_your_target">Hit your target</string>
+    <string name="label_caseray_solutions_limited">Caseray Solutions Limited</string>
+    <string name="unilag_foundation_content">The School of Foundation Studies, Unilag offers an intensive one-year programme, teaching subjects in line with the Joint Universities Preliminary Examination Board (JUPEB) Syllabus for admission.\n\n
+Highly successful candidates, after an approved examination administered by the JUPEB, are eligible for consideration for Direct Entry admission into the 200 Level of the Degree Programmes of the University through JAMB (Joint Admissions and Matriculation Board).\n\n
+We have past questions and answers that can help you prepare for success in the Unilag Foundation entrance exam.\n\n
+    </string>
+    <string name="unilag_mba_content">
+<b>Requirements for the University of Lagos MBA Programme, Fees and Duration </b>\n\n
+
+University of Lagos (Unilag) Masters of Business administration (MBA) attracts students from diverse social, cultural and academic backgrounds and prepares them for higher positions in management through the use of appropriate teaching aids, business games, class room lectures and case studies. The Unilag MBA programme a professional programme for students. Students who have earned degrees (BSc, BA, M
+Sc., M. ed, HND, etc) are eligible to apply. \n\n
+
+Entrance Requirements \n\n
+There are three types of Unilag MBA Programmes;\n
+1) Full time (Morning); \n
+2) Part-time (Evening); and \n
+3) Executive (Weekends). \n\n
+
+
+1. Unilag MBA Full Time (Morning Programme): \n
+Graduates in any discipline (degree only) from a recognized university or holders of professional qualifications approved by senate may apply for admission. Professional qualification such as: ACA, ACIA, ACIS or ACIB are an added advantage.\n
+Duration: 15 months. \n\n
+
+Cost: 250, 000 naira excluding acceptance fees of 64,500 naira. \n\n
+
+
+2. Unilag MBA Part Time (Evening Programme): \n\n
+In addition to the requirement of full time above, candidates should have a minimum of three years of post-graduation work experience in managerial positions and should be in full time employment. Notwithstanding the above, any candidates may be required, on admission, to make up for any deficiency. Candidates may be required to undergo an additional selection process. \n\n
+
+Duration: 24 months \n\n
+
+Cost: 450, 000 naira payable in two installments. Also excludes acceptance fee of 61,500 naira. \n\n
+
+3. Unilag MBA Executive(Weekends) \n\n
+In addition to the requirements above, applicants should have at least seven (7) years post qualification working experience at a managerial position. \n\n
+
+Duration: 24 Months \n\n
+
+
+Cost: 1,800,000 naira payable in installments excluding acceptance fees of 61,500 naira. \n\n
+
+<b>Note: UNILAG MBA accepts 3rd Class Students.</b>\n\n
+
+The Unilag MBA entrance exam consists of multiple choice questions in English Language, Mathematics, Quantitative Reasoning, Critical Thinking and Verbal Aptitude. The exam is a computer based test (CBT). \n\n
+
+We have past questions and answers that can help you prepare for success in the Unilag MBA entrance exam. Call or WhatsApp 08092327228.
+
+
+
+    </string>
+    <string name="past_questions_content">
+Contact us for past questions and answers to the following entrance exams. \n\n
+i) Unilag post UTME; \n\n
+ii) Unilag foundation entrance exam; \n\n
+iii) Unilag MBA entrance exam. \n\n
+iv) Unilag School of Nursing (SON) entrance exam.
+
+    </string>
+    <string name="caseray_solutions_services">Caseray Solutions Services</string>
+
+
+</resources>

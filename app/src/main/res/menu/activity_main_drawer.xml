@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_utme"
+            android:icon="@drawable/ic_past_questions"
+            android:title="@string/utme" />
+        <item
+            android:id="@+id/nav_foundation"
+            android:icon="@drawable/ic_tablet_android_black_24dp"
+            android:title="@string/menu_foundation" />
+        <item
+            android:id="@+id/nav_mba"
+            android:icon="@drawable/ic_assignment_ind_black_24dp"
+            android:title="@string/menu_mba" />
+        <item
+            android:id="@+id/nav_past_questions"
+            android:icon="@drawable/ic_pastquestion_as_pdf_black_24dp"
+            android:title="@string/menu_past_questions" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="@string/menu_about" />
+
+        <item
+            android:id="@+id/nav_cbt"
+            android:icon="@drawable/ic_computer_black_24dp"
+            android:title="@string/menu_cbt" />
+
+        <item
+            android:id="@+id/nav_caseray"
+            android:icon="@drawable/ic_verified_caseray"
+            android:title="@string/menu_caseray_solutions" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/contact" />
+        </menu>
+    </item>
+</menu>
